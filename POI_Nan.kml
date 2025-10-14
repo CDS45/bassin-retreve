@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>Stations du Nan</name>
+    <Style id="style-gouffre">
+      <IconStyle><color>ff0000ff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+    </Style>
+    <Style id="style-etang">
+      <IconStyle><color>ff00ffff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+    </Style>
+    <Style id="style-forage">
+      <IconStyle><color>ff00ff00</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+    </Style>
+    <Style id="style-reserve">
+      <IconStyle><color>ff00a5ff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+    </Style>
+    <Style id="style-nan">
+      <IconStyle><color>ff7f7f7f</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+    </Style>
+    <Style id="style-divers">
+      <IconStyle><color>ffffffff</color><scale>1.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+    </Style>
+
+    <!-- Points -->
+    <Placemark>
+      <name>Départ du Nan</name>
+      <styleUrl>#style-nan</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Rebréchien<br/>
+      Pas de source identifiée. Fossés humides provenant du ruissellement dans la forêt et d'une "réserve" munie d'une vanne...
+      ]]></description>
+      <Point><coordinates>2.03067,48.03425,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Réserve de Pont aux Lacs</name>
+      <styleUrl>#style-reserve</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Réserve entretenue par le syndicat, curage tous les 10 ans.
+      ]]></description>
+      <Point><coordinates>2.02288,48.03994,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Étang de Bougy</name>
+      <styleUrl>#style-etang</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Étang lié à une nappe superficielle. Vanne sous le pont, probablement alimenté par infiltration.
+      ]]></description>
+      <Point><coordinates>2.00865,48.03809,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Puits de l'Enfer</name>
+      <styleUrl>#style-gouffre</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Gouffres absorbant une partie des ruissellements en provenance du sud-ouest. Débordements possibles vers le nord.
+      ]]></description>
+      <Point><coordinates>2.05105,48.03,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sortie de drain et dérivation vers Mongirault</name>
+      <styleUrl>#style-divers</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Dérivation hydraulique liée à un système de drainage.
+      ]]></description>
+      <Point><coordinates>2.01219,48.049,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Dérivation n°2 vers Mongirault</name>
+      <styleUrl>#style-divers</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Deuxième dérivation dirigée vers le gouffre de Mongirault.
+      ]]></description>
+      <Point><coordinates>2.01135,48.0497,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gouffre de Mongirault</name>
+      <styleUrl>#style-gouffre</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Trou busé en Ø1000 mm, profond d’environ 10 m, fermé par un cadenas. Principal gouffre absorbant du Nan.
+      ]]></description>
+      <Point><coordinates>2.01188,48.05009,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Garenne de Mongirault</name>
+      <styleUrl>#style-divers</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Grille dans le Nan, départ vers de petits gouffres environnants.
+      ]]></description>
+      <Point><coordinates>2.00885,48.05114,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Allières des Arachis</name>
+      <styleUrl>#style-divers</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Bougy-lez-Neuville<br/>
+      Zone humide en bordure, pertes partielles du Nan.
+      ]]></description>
+      <Point><coordinates>2.00248,48.05658,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Les Orfosses</name>
+      <styleUrl>#style-nan</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Saint-Lyé-La-Forêt<br/>
+      Départ du petit Nan. Gouffre carré en forêt, débordements observés en 2021.
+      ]]></description>
+      <Point><coordinates>1.98983,48.05658,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Petit Nan</name>
+      <styleUrl>#style-nan</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Villereau<br/>
+      Autre étranglement du petit Nan, provoquant des débordements en forêt.
+      ]]></description>
+      <Point><coordinates>1.99035,48.05328,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gouffre du Chien</name>
+      <styleUrl>#style-gouffre</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Villereau<br/>
+      Gouffre du Chien, site d’absorption des eaux.
+      ]]></description>
+      <Point><coordinates>1.9919,48.0564,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gouffre du Migoubert</name>
+      <styleUrl>#style-gouffre</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Villereau<br/>
+      Gouffre busé de 1 m de diamètre, couvert, sur le trajet du Nan.
+      ]]></description>
+      <Point><coordinates>1.99249,48.05785,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Les Fosses Blanches</name>
+      <styleUrl>#style-divers</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Villereau<br/>
+      Plusieurs passages du Nan sous ouvrages agricoles (Ø900 mm).
+      ]]></description>
+      <Point><coordinates>1.99053,48.05965,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gouffre des Fosses Blanches</name>
+      <styleUrl>#style-gouffre</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Villereau<br/>
+      Gouffre équipé d'une buse et d'une dalle percée. Secteur comportant plusieurs forages d’absorption.
+      ]]></description>
+      <Point><coordinates>1.99119,48.05953,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Forage absorbant</name>
+      <styleUrl>#style-forage</styleUrl>
+      <description><![CDATA[
+      <b>Commune :</b> Villereau<br/>
+      Forage absorbant des crues du Nan, limite nord du secteur.
+      ]]></description>
+      <Point><coordinates>1.98547,48.06303,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Ligne reliant tous les points -->
+    <Placemark>
+      <name>Trajet du Nan</name>
+      <Style>
+        <LineStyle><color>ff7f0000</color><width>3</width></LineStyle>
+      </Style>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          2.03067,48.03425
+          2.02288,48.03994
+          2.00865,48.03809
+          2.05105,48.03
+          2.01219,48.049
+          2.01135,48.0497
+          2.01188,48.05009
+          2.00885,48.05114
+          2.00248,48.05658
+          1.98983,48.05658
+          1.99035,48.05328
+          1.9919,48.0564
+          1.99249,48.05785
+          1.99053,48.05965
+          1.99119,48.05953
+          1.98547,48.06303
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
