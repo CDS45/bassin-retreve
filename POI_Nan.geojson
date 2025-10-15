@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "name": "Stations du Nan",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "site": "Départ du Nan",
+        "commune": "Rebréchien",
+        "type": "source",
+        "commentaire": "Pas de source identifiée. Fossés humides provenant du ruissellement dans la forêt et d'une 'réserve' munie d'une vanne...",
+        "marker-color": "#1E90FF"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.03067, 48.03425] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "site": "Réserve de Pont aux lacs",
+        "commune": "Bougy-lez-Neuville",
+        "type": "réserve",
+        "commentaire": "Eau retenue par une digue dans la forêt. Entretien régulier par le syndicat.",
+        "marker-color": "#00BFFF"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.02288, 48.03994] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "site": "Étang de Bougy",
+        "commune": "Bougy-lez-Neuville",
+        "type": "étang",
+        "commentaire": "Étang alimenté par une nappe superficielle. Présence de vanne sous le pont.",
+        "marker-color": "#4169E1"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.00865, 48.03809] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "site": "Puits de l’Enfer",
+        "commune": "Bougy-lez-Neuville",
+        "type": "gouffre",
+        "commentaire": "Gouffres absorbant les ruissellements en provenance du sud-ouest (Tire-Bras et Bois Morin).",
+        "marker-color": "#FF0000"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.05105, 48.03] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "site": "Sortie de drain et dérivation vers Mongirault",
+        "commune": "Bougy-lez-Neuville",
+        "type": "drain",
+        "commentaire": "Zone de drainage et dérivation du Nan en direction de Mongirault.",
+        "marker-color": "#FFD700"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.01219, 48.049] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "site": "Dérivation n°2 vers Mongirault",
+        "commune": "Bougy-lez-Neuville",
+        "type": "drain",
+        "commentaire": "Conduite vers le gouffre de Mongirault.",
+        "marker-color": "#FFD700"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.01135, 48.0497] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "site": "Gouffre de Mongirault",
+        "commune": "Bougy-lez-Neuville",
+        "type": "gouffre",
+        "commentaire": "Trou busé (1000 mm, ~10 m de profondeur) absorbant majeur de la vallée du Nan.",
+        "marker-color": "#FF0000"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.01188, 48.05009] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "site": "Garenne de Mongirault",
+        "commune": "Bougy-lez-Neuville",
+        "type": "grille",
+        "commentaire": "Grille dans le Nan avec départs vers de petits gouffres environnants.",
+        "marker-color": "#00CED1"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.00885, 48.05114] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "site": "Allières des Arachis",
+        "commune": "Bougy-lez-Neuville",
+        "type": "secteur",
+        "commentaire": "Zone humide associée au Nan.",
+        "marker-color": "#32CD32"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.00248, 48.05658] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "site": "Les Orfosses",
+        "commune": "Saint-Lyé-La-Forêt",
+        "type": "gouffre",
+        "commentaire": "Départ du petit Nan, gouffre forestier absorbant avec buses d’évacuation.",
+        "marker-color": "#FF0000"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.98983, 48.05658] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "site": "Petit Nan",
+        "commune": "Villereau",
+        "type": "secteur",
+        "commentaire": "Autre étranglement sur le petit Nan, buses de 550 mm provoquant débordements.",
+        "marker-color": "#32CD32"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.99035, 48.05328] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "site": "Gouffre du Chien",
+        "commune": "Villereau",
+        "type": "gouffre",
+        "commentaire": "Gouffre identifié sur le Nan.",
+        "marker-color": "#FF0000"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.9919, 48.0564] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "site": "Gouffre du Migoubert",
+        "commune": "Villereau",
+        "type": "gouffre",
+        "commentaire": "Gouffre busé (1 m de diamètre) sur le Nan avant confluence.",
+        "marker-color": "#FF0000"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.99249, 48.05785] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "site": "Les Fosses Blanches",
+        "commune": "Villereau",
+        "type": "ouvrage",
+        "commentaire": "Ouvrages de franchissement agricoles (diamètre 900 mm).",
+        "marker-color": "#8B4513"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.99053, 48.05965] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "site": "Gouffre des Fosses Blanches",
+        "commune": "Villereau",
+        "type": "gouffre",
+        "commentaire": "Gouffre équipé d’une buse et d’une dalle. Secteur comportant 7 forages d’absorption.",
+        "marker-color": "#FF0000"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.99119, 48.05953] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "site": "Forage absorbant",
+        "commune": "Villereau",
+        "type": "forage",
+        "commentaire": "Forage d’absorption en bord du Nan, en aval des gouffres précédents.",
+        "marker-color": "#8A2BE2"
+      },
+      "geometry": { "type": "Point", "coordinates": [1.98547, 48.06303] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parcours",
+        "stroke": "#0000FF",
+        "stroke-width": 2,
+        "stroke-dasharray": "5,5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [2.03067, 48.03425],
+          [2.02288, 48.03994],
+          [2.00865, 48.03809],
+          [2.05105, 48.03],
+          [2.01219, 48.049],
+          [2.01135, 48.0497],
+          [2.01188, 48.05009],
+          [2.00885, 48.05114],
+          [2.00248, 48.05658],
+          [1.98983, 48.05658],
+          [1.99035, 48.05328],
+          [1.9919, 48.0564],
+          [1.99249, 48.05785],
+          [1.99053, 48.05965],
+          [1.99119, 48.05953],
+          [1.98547, 48.06303]
+        ]
+      }
+    }
+  ]
+}
