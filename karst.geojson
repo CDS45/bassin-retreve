@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.886815,
+          48.007886
+        ]
+      },
+      "properties": {
+        "name": "Diableaux n°2 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1417157618585047192",
+        "3dscan": "https://skfb.ly/pAZOO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.999285,
+          48.010715
+        ]
+      },
+      "properties": {
+        "name": "Jeanne d'Arc n°1 (Gouffre)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1423245332313014332",
+        "3dscan": "https://skfb.ly/pBCIo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.999313,
+          48.011627
+        ]
+      },
+      "properties": {
+        "name": "Jeanne d'Arc n°2 (Gouffre)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1423246166023475252",
+        "3dscan": "https://skfb.ly/pBCID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.884815,
+          48.012704
+        ]
+      },
+      "properties": {
+        "name": "Mézières n°2 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1417126341408723004",
+        "3dscan": "https://skfb.ly/pDGKC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.884815,
+          48.012704
+        ]
+      },
+      "properties": {
+        "name": "Renard (Gouffre du)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1417910300811984897",
+        "3dscan": "https://skfb.ly/pBpqw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.883485,
+          48.008305
+        ]
+      },
+      "properties": {
+        "name": "Renard (Perte du)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1417910300811984897",
+        "3dscan": "https://skfb.ly/pBprS"
+      }
+    }
+  ]
+}
