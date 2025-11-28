@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+  <Placemark>
+    <name>Diableaux n°2 (Gouffre des)</name>
+    <description><![CDATA[
+      <p>
+      <a href="https://discord.com/channels/1312020169643790376/1417157618585047192">Discussion</a></p>
+
+      <p>
+      <a href="https://skfb.ly/pAZOO">3D</a></p>
+
+      <p>
+      <img src="https://media.sketchfab.com/models/dab427ab3beb4592ae33d4435f2a43e2/thumbnails/6ac8aafaf3444bed9220fb5637c42f91/c2274a3663be4009be872f3f82ab9872.jpeg" width="250"></p>
+    ]]></description>
+
+    <Point>
+      <coordinates>1.886815,48.007886</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>
