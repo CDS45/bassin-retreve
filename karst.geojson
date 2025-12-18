@@ -21,6 +21,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.892815,
+          47.966582
+        ]
+      },
+      "properties": {
+        "name": "Fosses Guillaume n°2 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1441804391739818105",
+        "3dscan": "https://skfb.ly/pDJyP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.893153,
+          47.966543
+        ]
+      },
+      "properties": {
+        "name": "Fosses Guillaume n°3 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1441805195792220180",
+        "3dscan": "https://skfb.ly/pDJyP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.893578,
+          47.9665
+        ]
+      },
+      "properties": {
+        "name": "Fosses Guillaume n°4 (Gouffre des)",
+        "discussion": "",
+        "3dscan": "https://skfb.ly/pDJyP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.999285,
           48.010715
         ]
