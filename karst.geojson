@@ -28,7 +28,7 @@
       "properties": {
         "name": "Fosses Guillaume n°2 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1441804391739818105",
-        "3dscan": "https://skfb.ly/pDJyP"
+        "scan3d": "https://skfb.ly/pDJyP"
       }
     },
     {
@@ -43,7 +43,7 @@
       "properties": {
         "name": "Fosses Guillaume n°3 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1441805195792220180",
-        "3dscan": "https://skfb.ly/pDJyP"
+        "scan3d": "https://skfb.ly/pDJyP"
       }
     },
     {
@@ -58,7 +58,7 @@
       "properties": {
         "name": "Fosses Guillaume n°4 (Gouffre des)",
         "discussion": "",
-        "3dscan": "https://skfb.ly/pDJyP"
+        "scan3d": "https://skfb.ly/pDJyP"
       }
     },
     {
@@ -102,7 +102,6 @@
       },
       "properties": {
         "name": "Mézières n°2 (Gouffre des)",
-        "image": "https://media.sketchfab.com/models/42b6bebc58e742ea84e4a1f47f061e61/thumbnails/9854a2a95bd6437da72771773809bcb6/8685a28ec20040f09b8e1da87860443d.jpeg",
         "discussion": "https://discord.com/channels/1312020169643790376/1417126341408723004",
         "scan3d": "https://skfb.ly/pDGKC"
       }
