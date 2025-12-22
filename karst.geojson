@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.890084,
+          47.967718
+        ]
+      },
+      "properties": {
+        "name": "Fosses Guillaume n°1 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1452774250581725287",
+        "scan3d": "https://skfb.ly/pEOQC",
+        "image": "https://media.sketchfab.com/models/ba66595345244d1bbf45f45d00400cba/thumbnails/c3531a990b814127a88472ca7a61144f/969ee455917f4e4799d1d55aa5db05b8.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.892815,
           47.966582
         ]
