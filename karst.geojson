@@ -14,7 +14,7 @@
         "name": "Diableaux n°2 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1417157618585047192",
         "scan3d": "https://skfb.ly/pAZOO",
-        "image": "https://media.sketchfab.com/models/dab427ab3beb4592ae33d4435f2a43e2/thumbnails/6ac8aafaf3444bed9220fb5637c42f91/c2274a3663be4009be872f3f82ab9872.jpeg"
+        "image": "https://media.sketchfab.com/models/dab427ab3beb4592ae33d4435f2a43e2/thumbnails/3523aaf0c7c7465d8974bf1e41776829/bd1e89f818df489b9ed8adaf05e3f526.jpeg"
       }
     },
     {
@@ -30,7 +30,7 @@
         "name": "Fosses Guillaume n°1 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1452774250581725287",
         "scan3d": "https://skfb.ly/pEOQC",
-        "image": "https://media.sketchfab.com/models/ba66595345244d1bbf45f45d00400cba/thumbnails/c3531a990b814127a88472ca7a61144f/969ee455917f4e4799d1d55aa5db05b8.jpeg"
+        "image": "https://media.sketchfab.com/models/ba66595345244d1bbf45f45d00400cba/thumbnails/87d1da11834f419396f43e4e12bdae1e/9450bc7ab80e4b589a80059f659b1400.jpeg"
       }
     },
     {
@@ -46,7 +46,7 @@
         "name": "Fosses Guillaume n°2 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1441804391739818105",
         "scan3d": "https://skfb.ly/pDJyP",
-        "image": "https://media.sketchfab.com/models/16f1fd841657446cab0b24b7d7d67dd5/thumbnails/6aafd4bc96d44e05a61b5b7b816d8dea/1d53921622fe4875bf8cf117b6798564.jpeg"
+        "image": "https://media.sketchfab.com/models/16f1fd841657446cab0b24b7d7d67dd5/thumbnails/8c54ce3012d74e9ebc4e61d773497f25/8ed1d9c692154448af0f2c4a4444ee2a.jpeg"
       }
     },
     {
@@ -62,7 +62,7 @@
         "name": "Fosses Guillaume n°3 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1441805195792220180",
         "scan3d": "https://skfb.ly/pDJyP",
-        "image": "https://media.sketchfab.com/models/16f1fd841657446cab0b24b7d7d67dd5/thumbnails/6aafd4bc96d44e05a61b5b7b816d8dea/1d53921622fe4875bf8cf117b6798564.jpeg"
+        "image": "https://media.sketchfab.com/models/16f1fd841657446cab0b24b7d7d67dd5/thumbnails/8c54ce3012d74e9ebc4e61d773497f25/8ed1d9c692154448af0f2c4a4444ee2a.jpeg"
       }
     },
     {
@@ -78,7 +78,23 @@
         "name": "Fosses Guillaume n°4 (Gouffre des)",
         "discussion": "",
         "scan3d": "https://skfb.ly/pDJyP",
-        "image": "https://media.sketchfab.com/models/16f1fd841657446cab0b24b7d7d67dd5/thumbnails/6aafd4bc96d44e05a61b5b7b816d8dea/1d53921622fe4875bf8cf117b6798564.jpeg"
+        "image": "https://media.sketchfab.com/models/16f1fd841657446cab0b24b7d7d67dd5/thumbnails/8c54ce3012d74e9ebc4e61d773497f25/8ed1d9c692154448af0f2c4a4444ee2a.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.891513,
+          47.96636
+        ]
+      },
+      "properties": {
+        "name": "Fosses Guillaume n°5 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454097423700856895",
+        "scan3d": "https://skfb.ly/pESJu",
+        "image": "https://media.sketchfab.com/models/ff9250b18e6945cb8afd7fe44b926abe/thumbnails/f188b44998f84f75ae00c55b314c2e92/fb49d3c9d10c4a4f9e650effad13d485.jpeg"
       }
     },
     {
@@ -94,7 +110,7 @@
         "name": "Jeanne d'Arc n°1 (Gouffre)",
         "discussion": "https://discord.com/channels/1312020169643790376/1423245332313014332",
         "scan3d": "https://skfb.ly/pBCIo",
-        "image": "https://media.sketchfab.com/models/79f9af0ff5604234a0f0e3a3f9571fed/thumbnails/03eef981fd284b1bad84f2b7b7e45abe/875c7bb5ddfa41f19be2374f46595582.jpeg"
+        "image": "https://media.sketchfab.com/models/79f9af0ff5604234a0f0e3a3f9571fed/thumbnails/e7eff39641774e719426cac9cb9838bd/cc929566622d4b27b60e6a98ce6afeaa.jpeg"
       }
     },
     {
@@ -110,7 +126,7 @@
         "name": "Jeanne d'Arc n°2 (Gouffre)",
         "discussion": "https://discord.com/channels/1312020169643790376/1423246166023475252",
         "scan3d": "https://skfb.ly/pBCID",
-        "image": "https://media.sketchfab.com/models/14e170df40a84fb58e7b848f2b08bd5e/thumbnails/5bba4610d13f4cf4a11579a99392e5f4/ef9e1eb57a7b4e3ea0cf123c7151f4b2.jpeg"
+        "image": "https://media.sketchfab.com/models/14e170df40a84fb58e7b848f2b08bd5e/thumbnails/e9e08089a4fa47e9b887113ea8874621/2986a9e5332240f48e5706e67262c4c0.jpeg"
       }
     },
     {
@@ -126,7 +142,7 @@
         "name": "Mézières n°2 (Gouffre des)",
         "discussion": "https://discord.com/channels/1312020169643790376/1417126341408723004",
         "scan3d": "https://skfb.ly/pDGKC",
-        "image": "https://media.sketchfab.com/models/42b6bebc58e742ea84e4a1f47f061e61/thumbnails/9854a2a95bd6437da72771773809bcb6/8685a28ec20040f09b8e1da87860443d.jpeg"
+        "image": "https://media.sketchfab.com/models/42b6bebc58e742ea84e4a1f47f061e61/thumbnails/dd8bda96962041228d8d7a50ac5044b0/54127cc4c4cc4c6cb78d09833b90366e.jpeg"
       }
     },
     {
@@ -142,7 +158,7 @@
         "name": "Renard (Gouffre du)",
         "discussion": "https://discord.com/channels/1312020169643790376/1417910300811984897",
         "scan3d": "https://skfb.ly/pBpqw",
-        "image": "https://media.sketchfab.com/models/4024b7240e9043439dda2e348091a22c/thumbnails/98abbfed537a4d44bcade4b2fccb9528/697fcbc16f7e44739bfc1923e5288ed5.jpeg"
+        "image": "https://media.sketchfab.com/models/4024b7240e9043439dda2e348091a22c/thumbnails/6df84e86ba334487b18957dbb3960177/a8fe0ed263fb43879e00d6f731f84ba2.jpeg"
       }
     },
     {
@@ -158,7 +174,7 @@
         "name": "Renard (Perte du)",
         "discussion": "https://discord.com/channels/1312020169643790376/1417910300811984897",
         "scan3d": "https://skfb.ly/pBprS",
-        "image": "https://media.sketchfab.com/models/cfee057be630440ab264991bd8cd18e7/thumbnails/abd8017f92c140e6879c2681b8cbfacf/440ddb0964734dfb97e69a2d73009187.jpeg"
+        "image": "https://media.sketchfab.com/models/cfee057be630440ab264991bd8cd18e7/thumbnails/2c30a84af84249df9dea06e52cfb0704/124a0ca038bb4ae98f00cdbf328afb13.jpeg"
       }
     }
   ]
