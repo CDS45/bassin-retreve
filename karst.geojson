@@ -102,6 +102,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.918155,
+          47.98912
+        ]
+      },
+      "properties": {
+        "name": "Gentilhomme n°1a (Gouffres du)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454926968465395775",
+        "scan3d": "https://skfb.ly/pEUOs",
+        "image": "https://media.sketchfab.com/models/ef89b2d60f30435a838d3ec4f30ebf8a/thumbnails/9271e7c506d34e62aa7ed7bb8bba84a8/24f2551478244a328e88a87042906a98.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.917988,
+          47.988985
+        ]
+      },
+      "properties": {
+        "name": "Gentilhomme n°1b (Gouffres du)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454927848283439155",
+        "scan3d": "https://skfb.ly/pEUNH",
+        "image": "https://media.sketchfab.com/models/aeb5c674b87740bbaa45d4781939af20/thumbnails/90be2b578f7342c6b5cd28c1f1d7da31/fdb5430861c24194a1ebad2639d371eb.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.999285,
           48.010715
         ]
@@ -110,7 +142,7 @@
         "name": "Jeanne d'Arc n°1 (Gouffre)",
         "discussion": "https://discord.com/channels/1312020169643790376/1423245332313014332",
         "scan3d": "https://skfb.ly/pBCIo",
-        "image": "https://media.sketchfab.com/models/79f9af0ff5604234a0f0e3a3f9571fed/thumbnails/e7eff39641774e719426cac9cb9838bd/cc929566622d4b27b60e6a98ce6afeaa.jpeg"
+        "image": "https://media.sketchfab.com/models/79f9af0ff5604234a0f0e3a3f9571fed/thumbnails/d6864856d97c4ee19bfeb482364d3b8f/bfc58fb7061e4847952cfe390229c861.jpeg"
       }
     },
     {
@@ -143,6 +175,70 @@
         "discussion": "https://discord.com/channels/1312020169643790376/1417126341408723004",
         "scan3d": "https://skfb.ly/pDGKC",
         "image": "https://media.sketchfab.com/models/42b6bebc58e742ea84e4a1f47f061e61/thumbnails/dd8bda96962041228d8d7a50ac5044b0/54127cc4c4cc4c6cb78d09833b90366e.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.920215,
+          47.99545
+        ]
+      },
+      "properties": {
+        "name": "Pas Ronds n°2 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454949005674025011",
+        "scan3d": "https://skfb.ly/pEUNS",
+        "image": "https://media.sketchfab.com/models/484395d453d942a3aa4a309f5603d29e/thumbnails/3beeb347b7f64a8ea7a2821512920be0/ea00fb1a44e94e8cb9f323cfa7378aba.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.91889,
+          47.995375
+        ]
+      },
+      "properties": {
+        "name": "Pas Ronds n°3 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454949799559303380",
+        "scan3d": "https://skfb.ly/pEUNU",
+        "image": "https://media.sketchfab.com/models/ee0c313301ee46969d0c15e48973057c/thumbnails/c3c6945923494e46b4e62f339f78a073/aa6b6bbc8fa64cbb865a48203b3acef8.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.918063,
+          47.995312
+        ]
+      },
+      "properties": {
+        "name": "Pas Ronds n°4 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454950240959598694",
+        "scan3d": "https://skfb.ly/pEUNM",
+        "image": "https://media.sketchfab.com/models/d5c926b45e5f4cf1ae71b72087f8a67c/thumbnails/19903db8b2c2456c8ef28eb7573f2d3f/cb20ec1025654cc1ac02b77f1e35d98f.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.918081,
+          47.995463
+        ]
+      },
+      "properties": {
+        "name": "Pas Ronds n°5 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1454950706758025348",
+        "scan3d": "https://skfb.ly/pEUNY",
+        "image": "https://media.sketchfab.com/models/a9093fba9ea243af9c1364179aefe329/thumbnails/2d7649700b894c3ea49fac8e3ab032c7/68f19ac013e74a309622f1abdbcb9cf9.jpeg"
       }
     },
     {
