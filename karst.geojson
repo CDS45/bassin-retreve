@@ -198,6 +198,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.010687,
+          47.997984
+        ]
+      },
+      "properties": {
+        "name": "Orfosses n°2 (Gouffre des)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1457452012227793082",
+        "scan3d": "https://skfb.ly/pFDJV",
+        "image": "https://media.sketchfab.com/models/0bd8512863f74af08107f9d101757e29/thumbnails/376bea18d845440b8929964db589d9a7/bb1379830d574ec28564608e9a7771bb.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.920215,
           47.99545
         ]
