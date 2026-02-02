@@ -182,6 +182,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.938016,
+          47.979524
+        ]
+      },
+      "properties": {
+        "name": "Moreau n°1 (Gouffres)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1467842656901009510",
+        "scan3d": "https://skfb.ly/pFWEX",
+        "image": "https://media.sketchfab.com/models/14e48f5612104c5b938865a40bea4e50/thumbnails/5da3c21f2ab449bc9397a208d8bcec8c/10940c5192684df3ae79fc58e1a87415.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93864,
+          47.980269
+        ]
+      },
+      "properties": {
+        "name": "Moreau n°2 (Gouffres)",
+        "discussion": "https://discord.com/channels/1312020169643790376/1467843762192388119",
+        "scan3d": "https://skfb.ly/pFWFp",
+        "image": "https://media.sketchfab.com/models/a9e44815a16440dda8c9a8a931adf16e/thumbnails/a8777a7d448d4a6281c781f216c491ae/dc745659e1be417d96aa6016638a1bdd.jpeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.010973,
           47.997759
         ]
